@@ -293,7 +293,7 @@ dl {
 }
 
 .box3 > ul {
-    grid-area: 2/1/3/4;
+    grid-area: 2/2/3/4;
     padding: 0;
 }
 
